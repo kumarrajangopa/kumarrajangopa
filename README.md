@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kumar 
 - 👀 I’m interested in ... Python, Data Analysis, Machine Learning
 - 🌱 I’m currently learning ...Machine Learning - transfer learning, time-series analysis
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Machine learning - High dimensional data like spectral data
 - 📫 How to reach me ...@kumarrajangopa
 
 <!---
